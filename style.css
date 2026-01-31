@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+}
+.container {
+    padding: 40px;
+}
+.row {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.label {
+    width: 100px;
+    font-weight: bold;
+    color: #000;
+}
+.btn {
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 12px 20px;
+    border-radius: 4px;
+}
+/* Uber */
+.uber {
+    background-color: #2ecc71;
+    color: white;
+    font-weight: bold;
+}
+/* Amazon */
+.amazon {
+    background-color: #000;
+    color: white;
+}
+/* GitHub */
+.github {
+    background-color: #f4d03f;
+    color: #000;
+    border-radius: 20px;
+    padding: 12px 30px;
+    font-weight: bold;
+}
+/* Bootstrap */
+.bootstrap-primary {
+    background-color: #6f42c1;
+    color: white;
+}
+.bootstrap-secondary {
+    background-color: #e0e0e0;
+    color: #555;
+}
+/* Linkedin */
+.linkedin-apply {
+    background-color: #0a66c2;
+    color: white;
+    border-radius: 25px;
+    padding: 12px 35px;
+    font-weight: bold;
+}
+.linkedin-save {
+    background-color: white;
+    color: #0a66c2;
+    border: 1px solid #0a66c2;
+    border-radius: 25px;
+}
